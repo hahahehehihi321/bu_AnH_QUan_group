@@ -1,0 +1,55 @@
+.text1{
+    font-family: DM Sans, sans-serif;
+    color:#5462e3;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 10px;
+}
+.text2{
+    font-family: DM Sans, sans-serif;
+    color:#1c2573;
+    font-weight: bold;
+    font-size: 14px;
+    font-size: 36px;
+    line-height: 1.2;
+    padding:10px;
+}
+.text3{
+    font-family: DM Sans, sans-serif;
+    color:#282d4e;
+    font-size: 18px;
+    line-height: 1.6;
+    padding: 10px;
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+
+}
+.img{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+.outside{
+    display: flex; 
+    justify-content:center;
+    margin-bottom: 40px;
+}    
+.text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 50px;
+    padding: 20px;
+    width: 40%;
+}
+.head{
+    display: flex;
+    justify-content: center;
+    font-family: DM Sans, sans-serif;
+    color:#282d4e;
+    font-size: 32px;
+    margin-bottom: 40px;
+}
